@@ -20,3 +20,23 @@ iebc_records.xlsx
 
 In dbms for the db is sqlite, so you can run sqlite3 iebcrecords.db to get into the db or use a gui sqlite browser.
 There will be a view table that aggregates all the results from the various csv files.
+
+## The results should look something like this:
+
+### The aggregate views table
+![Screenshot_2024-07-19_00-38-18](https://github.com/user-attachments/assets/a56e997f-3b7a-4a76-934c-87d46546a8c6)
+![Screenshot_2024-07-19_00-37-42](https://github.com/user-attachments/assets/73260653-fd11-4e6b-9571-b85b118031e9)
+
+### Counties table
+![Screenshot_2024-07-19_18-36-59](https://github.com/user-attachments/assets/607fa819-3649-4c31-8e21-e178a8688f38)
+
+### Constituencies table
+![Screenshot_2024-07-19_18-38-45](https://github.com/user-attachments/assets/0e7f1bcc-a779-4c3b-82ff-c0c0f11ebdf8)
+
+### Wards table
+![Screenshot_2024-07-19_18-39-57](https://github.com/user-attachments/assets/bc984e2e-5970-473f-999c-574dba775449)
+
+### Polling Stations Table
+![Screenshot_2024-07-19_18-41-06](https://github.com/user-attachments/assets/3842d6fa-120f-4789-955b-bc84fb810a19)
+
+Then finally a table of registration officers for each constituency.
